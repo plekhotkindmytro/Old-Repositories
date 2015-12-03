@@ -1,0 +1,3 @@
+^M$
+^@^@^I^@^Gservers^M$
+^@^@^@^A^H^@^Dname^@^Oreborncraft.biz^H^@^Bip^@^^factions.reborncraft.biz:25565^@^@
