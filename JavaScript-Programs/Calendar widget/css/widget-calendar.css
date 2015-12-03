@@ -1,0 +1,140 @@
+.central-style {
+	width: 100px;
+	height: 50px;
+	margin: 150px auto;
+	
+}
+#calendar-logo {
+	position: absolute;
+	margin: 5px -5px;
+	cursor: pointer;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.widget-calendar{
+	position:absolute;
+	border: solid 1px #B4B4B4;
+	width: 312px;
+}
+
+.widget-calendar-body {
+		width: 100%;
+		display:inline-block;
+}
+.widget-calendar-head {
+		background-color: #F4E8CF;
+		border: 1px solid #F2DBC0;
+	width: 302px;
+		height: 40px;
+	line-height: 40px;
+		margin: 4px;
+		-moz-border-radius: 4px; /* Firefox */
+  -webkit-border-radius: 4px; /* Safari, Chrome */
+  -khtml-border-radius: 4px; /* KHTML */
+  border-radius: 4px; /* CSS3 */
+}
+#widget-calendar-nav-next-btn, #widget-calendar-nav-prev-btn{
+	color: #000000;
+}
+
+.widget-calendar-head div {
+  float:left;
+  text-align: center;
+  line-height: 32px;
+  height: 32px;
+  padding: 4px;
+}
+.widget-calendar-month-name
+{
+	width: 246px;
+}
+
+.widget-calendar-body ul {
+	padding: 0px;
+	margin: 2px;
+}
+.widget-calendar-body ul li
+ {
+	float:left;
+	border: 1px solid #B4B4B4;
+	margin: 2px;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+li.chosen {
+	color: orange;
+	border-color: orange !important;	
+}
+
+ul.widget-calendar-body-month-days li, ul.widget-calendar-body-week-days li
+ {
+	width: 38px;
+	height: 30px;
+	line-height: 30px;
+	
+}
+
+ul.widget-calendar-body-months li
+ {
+	width: 96px;
+	height: 48px;
+	line-height: 48px;
+	
+}
+
+ul.widget-calendar-body-years li
+ {
+	width: 55px;
+	height: 48px;
+	line-height: 48px;
+	
+}
+
+ul.widget-calendar-body-month-days li, 
+ul.widget-calendar-body-months li,
+ul.widget-calendar-body-years li {
+	cursor: pointer;
+}
+
+ul.widget-calendar-body-month-days li.native-true:not(.chosen):hover, 
+ul.widget-calendar-body-months li:hover,
+ul.widget-calendar-body-years li:hover {
+	background-color: #cccccc;
+}
+
+/* 
+	width: 38px;
+	height: 30px;
+	line-height: 30px;
+*/
+
+li.native-false {
+	color: #cccccc;
+	cursor: default !important;
+}
+.hidden {
+	display: none;
+}
+
+
+#widget-calendar-today {
+    margin: 0 auto 5px auto;
+    text-align: center;
+    border: 1px solid #B4B4B4;
+    width: 70px;
+}
+
+
+#widget-calendar-today  a{
+	color: #0097C6;
+	font-weight: bold;
+}
+

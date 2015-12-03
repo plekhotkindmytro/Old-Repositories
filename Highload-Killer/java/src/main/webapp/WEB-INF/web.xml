@@ -1,0 +1,22 @@
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+    http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	<display-name>Archetype Created Web Application</display-name>
+	<servlet>
+		<servlet-name>DataGeneratorServlet</servlet-name>
+		<servlet-class>highloadkiller.servlet.DataGeneratorServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>MeasureServlet</servlet-name>
+		<servlet-class>highloadkiller.servlet.MeasureServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DataGeneratorServlet</servlet-name>
+		<url-pattern>/data</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>MeasureServlet</servlet-name>
+		<url-pattern>/measure</url-pattern>
+	</servlet-mapping>
+</web-app>

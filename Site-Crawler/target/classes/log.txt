@@ -1,0 +1,70 @@
+INFO  2014-04-11 16:42:57,047 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Абай saved.
+INFO  2014-04-11 16:43:01,779 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Авдеевка saved.
+INFO  2014-04-11 16:43:08,627 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Акжал saved.
+INFO  2014-04-11 16:43:13,083 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Акимовский район saved.
+INFO  2014-04-11 16:43:17,625 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Акколь saved.
+INFO  2014-04-11 16:43:22,545 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (7172) 78-08-27|Эвакуатор Астана, полный адресс: Астана, просп. Республики, 42/1, доп. тел.:  +7 (701) 998-96-36, сайт: autovoz.kz/evakuatory
+INFO  2014-04-11 16:43:22,548 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 528-67-64|Эвакуатор Астана, полный адресс: Астана, ул. Пушкина, 7, сайт: evakuator-astana.com
+INFO  2014-04-11 16:43:22,551 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (7172) 78-08-27|Эвакуатор Астана, полный адресс: Астана, просп. Абая, 13, доп. тел.:  +7 (701) 446-13-96, сайт: evakuators.kz
+INFO  2014-04-11 16:43:22,554 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 942-22-36|Эвакуатор Астана, полный адресс: Астана, просп. Богенбай батыра, 5, сайт: spasatel.kz
+INFO  2014-04-11 16:43:22,557 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 941-66-26|Эвакуатор КЗ, полный адресс: Астана, ул. Кенесары, 20, сайт: www.tehpomosh.kz
+INFO  2014-04-11 16:43:22,559 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 255-72-05|Эвакуатор, полный адресс: Астана, ул. Куйши Дина, 4, доп. тел.:  +7 (701) 015-30-00
+INFO  2014-04-11 16:43:22,562 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (702) 304-91-50|Эвакуатор Астана, полный адресс: Астана, просп. Нургисы Тлендиева, 10, сайт: www.evakuatorastana.kz
+INFO  2014-04-11 16:43:22,564 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (707) 848-26-64|Эвакуатор Астана, полный адресс: Астана, ул. Мирзояна, 2, доп. тел.:  +7 (702) 255-72-05, +7 (701) 941-66-26, +7 (771) 166-56-09
+INFO  2014-04-11 16:43:22,567 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (717) 245-69-69|Эвакуатор Астана, полный адресс: Астана, просп. Сарыарка, 35, доп. тел.:  +7 (777) 870-97-77
+INFO  2014-04-11 16:43:22,569 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (702) 123-68-68|Эвакуатор Астана круглосуточно Газель
+INFO  2014-04-11 16:43:22,571 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 998-00-88|Эвакуатор в Астане, полный адресс: Астана, ул. 150-ти летия Абая, 20
+INFO  2014-04-11 16:43:22,574 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 947-77-50|Эвакуаторы Астаны, полный адресс: Астана, ул. 150-ти летия Абая, 5, доп. тел.:  +7 (701) 998-00-88
+INFO  2014-04-11 16:43:22,576 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (7172) 45-69-69|Эвакуаторы Астаны, доп. тел.:  +7 (701) 998-00-88, +7 (701) 947-77-50
+INFO  2014-04-11 16:43:22,578 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (717) 245-69-69|Услуги эвакуатора Астана, полный адресс: Астана, просп. Абылай Хана, 3, доп. тел.:  +7 (701) 947-77-50
+INFO  2014-04-11 16:43:22,581 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Акмолинская область saved.
+INFO  2014-04-11 16:43:29,170 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Аксай saved.
+INFO  2014-04-11 16:43:36,234 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Аксу saved.
+INFO  2014-04-11 16:43:40,927 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Актау saved.
+ERROR 2014-04-11 16:43:41,002 [main] com.dmytroplekhotkin.crawler.util.Connector: Can't get data. Please enter CAPTCHA.
+java.io.IOException: Server returned HTTP response code: 420 for URL: http://sprav.yandex.ru/cmd?cmd=ajax_search&page_size=40&referense_id=4011&name=эвакуатор&geo_id=20273
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626)
+	at com.dmytroplekhotkin.crawler.util.Connector.get(Connector.java:26)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.getResponse(PhoneLoader.java:67)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.start(PhoneLoader.java:130)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.main(PhoneLoader.java:58)
+INFO  2014-04-11 16:44:45,125 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Актобе saved.
+INFO  2014-04-11 16:44:49,970 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Актюбинская область saved.
+INFO  2014-04-11 16:44:54,568 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Алга saved.
+INFO  2014-04-11 16:44:57,856 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Александрийский район saved.
+INFO  2014-04-11 16:45:01,524 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Александрия saved.
+INFO  2014-04-11 16:45:05,757 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Александровск saved.
+INFO  2014-04-11 16:45:13,289 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Александровский район (Донецкая область) saved.
+INFO  2014-04-11 16:45:19,539 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Александровский район (Кировоградская область) saved.
+INFO  2014-04-11 16:45:25,370 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Алмазная saved.
+ERROR 2014-04-11 16:45:25,445 [main] com.dmytroplekhotkin.crawler.util.Connector: Can't get data. Please enter CAPTCHA.
+java.io.IOException: Server returned HTTP response code: 420 for URL: http://sprav.yandex.ru/cmd?cmd=ajax_search&page_size=48&referense_id=5723&name=эвакуатор&geo_id=29406
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626)
+	at com.dmytroplekhotkin.crawler.util.Connector.get(Connector.java:26)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.getResponse(PhoneLoader.java:67)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.start(PhoneLoader.java:130)
+	at com.dmytroplekhotkin.crawler.PhoneLoader.main(PhoneLoader.java:58)
+INFO  2014-04-11 16:46:31,820 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 317-02-73|Эвакуатор, полный адресс: Алматы, ул. Утеген батыра, 100, сайт: standard-oil.kz
+INFO  2014-04-11 16:46:31,823 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 320-25-20|Эвакуатор.Kz, полный адресс: Алматы, Аксай мкр., 53, доп. тел.:  +7 (727) 328-35-35, сайт: www.evakuator.kz
+INFO  2014-04-11 16:46:31,826 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 385-30-29|Эвакуатор, полный адресс: Алматы, ул. Утеген батыра, 14, доп. тел.:  +7 (727) 381-58-12
+INFO  2014-04-11 16:46:31,828 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 327-21-57|Эвакуатор, полный адресс: Алматы, ул. Говорова, 48
+INFO  2014-04-11 16:46:31,830 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 317-92-68|Эвакуатор
+INFO  2014-04-11 16:46:31,833 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 232-67-10|Эвакуатор
+INFO  2014-04-11 16:46:31,835 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 255-72-05|Эвакуатор + СТО, полный адресс: Астана, ул. Угольная, 2, доп. тел.:  +7 (771) 166-56-09, +7 (702) 255-72-05
+INFO  2014-04-11 16:46:31,837 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматинская обл.|+7 (702) 416-81-05|Эвакуатор 8 702 416 81 05
+INFO  2014-04-11 16:46:31,838 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Алматинская область saved.
+INFO  2014-04-11 16:46:37,575 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 317-02-73|Эвакуатор, полный адресс: Алматы, ул. Утеген батыра, 100, сайт: standard-oil.kz
+INFO  2014-04-11 16:46:37,579 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 320-25-20|Эвакуатор.Kz, полный адресс: Алматы, Аксай мкр., 53, доп. тел.:  +7 (727) 328-35-35, сайт: www.evakuator.kz
+INFO  2014-04-11 16:46:37,582 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 385-30-29|Эвакуатор, полный адресс: Алматы, ул. Утеген батыра, 14, доп. тел.:  +7 (727) 381-58-12
+INFO  2014-04-11 16:46:37,584 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 327-21-57|Эвакуатор, полный адресс: Алматы, ул. Говорова, 48
+INFO  2014-04-11 16:46:37,587 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 232-67-10|Эвакуатор
+INFO  2014-04-11 16:46:37,590 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Алматы|+7 (727) 317-92-68|Эвакуатор
+INFO  2014-04-11 16:46:37,592 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Казахстан|Астана|+7 (701) 255-72-05|Эвакуатор + СТО, полный адресс: Астана, ул. Угольная, 2, доп. тел.:  +7 (771) 166-56-09, +7 (702) 255-72-05
+INFO  2014-04-11 16:46:37,600 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Алматы saved.
+INFO  2014-04-11 16:46:43,788 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Алчевск saved.
+INFO  2014-04-11 16:46:47,541 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Амвросиевка saved.
+INFO  2014-04-11 16:46:53,727 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Амвросиевский район saved.
+INFO  2014-04-11 16:47:00,136 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Ананьев saved.
+INFO  2014-04-11 16:47:06,346 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Ананьевский район saved.
+INFO  2014-04-11 16:47:09,853 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Андрушевка saved.
+INFO  2014-04-11 16:47:13,978 [main] com.dmytroplekhotkin.crawler.PhoneLoader: Андрушевский район saved

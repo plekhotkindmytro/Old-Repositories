@@ -1,0 +1,10 @@
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/service/GithubAuthService.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/filter/GithubAuthFilter.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/service/GithubDataService.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/util/ApiConnector.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/service/impl/GithubAuthServiceImpl.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/servlet/SearchServlet.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/model/GithubUser.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/util/GithubProperties.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/model/GithubEvent.java
+/Users/dmytroplekhotkin/Projects/Workspace/headinfo/src/main/java/uwc/headinfo/service/impl/GithubDataServiceImpl.java

@@ -1,0 +1,10 @@
+uwc/headinfo/service/GithubAuthService.class
+uwc/headinfo/servlet/SearchServlet.class
+uwc/headinfo/service/impl/GithubAuthServiceImpl.class
+uwc/headinfo/util/ApiConnector.class
+uwc/headinfo/filter/GithubAuthFilter.class
+uwc/headinfo/model/GithubUser.class
+uwc/headinfo/service/GithubDataService.class
+uwc/headinfo/service/impl/GithubDataServiceImpl.class
+uwc/headinfo/util/GithubProperties.class
+uwc/headinfo/model/GithubEvent.class

@@ -1,0 +1,85 @@
+body {
+	background: #ffffff url('images/bg.jpg') repeat fixed left center;
+	font-family: Arial, "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	padding: 0 !important;
+	margin: 0;
+}
+
+.header {
+	background-color: #ffffff;
+	font-size: 35px;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+#logo {
+	display: block;
+	width: 150px;
+	height: 60px;
+	background: url('images/logo.jpg');
+	text-indent: -9999px;
+}
+
+.ui-growl-item {
+	background: rgba(0, 114, 188, 0.7)
+		url("images/ui-bg_flat_100_3597D6_40x100.png") 50% 50% repeat-x;
+	background: rgba(0, 114, 188, 0.7);
+	background: rgba(0, 114, 188, 0.7)
+		linear-gradient(top, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));
+	background: rgba(0, 114, 188, 0.7)
+		-webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.25)),
+		to(rgba(0, 0, 0, 0)));
+	background: rgba(0, 114, 188, 0.7)
+		-moz-linear-gradient(top, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));
+	/*    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#00000000);-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#33000000, endColorstr=#00000000)";*/
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #333333;
+}
+
+.loginPanel {
+	margin: 20px;
+	margin-right: 25px;
+	height: 270px;
+	width: 286px;
+	float: left;
+}
+
+.loginPanel input {
+	width: 120px;
+}
+
+.loginPanel button {
+	width: 132px;
+	border: 1px solid #0072bc;
+	background: #0072bc url("images/ui-bg_flat_50_0072bc_40x100.png") 50%
+		50% repeat-x;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+#loginButton {
+	background-color: #0072bc;
+}
+
+.rssFeedPanel {
+	margin: 20px;
+	height: 270px;
+	width: 286px;
+	padding: 11px;
+}
+
+.rssFeedTitle {
+	font-weight: bold;
+	display: block;
+	text-transform:uppercase;
+}
+
+.rssFeedBody {
+	display:block;
+	padding: 20px 0;
+}
+
+.ui-panel {
+	padding: 0;
+}

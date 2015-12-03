@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calendar</title>
+	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/widget-calendar.css" />
+	<script src="js/utils.js"></script>
+	
+	
+</head>
+<body>
+	<!-- NOTE: visible part -->
+	<!-- TODO: onfocus -> display calendar dialog -->
+	<div class="central-style">
+	Enter date: <input type="text" id="calendar">
+	</div>
+	
+	
+	
+	<script src="js/calendar.js"></script>	
+	<script>		
+		onLoad(function(){
+			
+			CalendarWidget.init("calendar");
+			onLoad.loaded = true;
+		});
+	</script>
+</body>
+</html>

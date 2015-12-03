@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head title="The Car Club">
+	<f:facet name="first">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="pragma" content="no-cache" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+	</f:facet>
+	<ui:insert name="head" />
+
+</h:head>
+
+<h:body>
+
+	<h:panelGroup layout="block" styleClass="header">
+		<a href="#" id="logo">Blue Rock Logistics</a>
+	</h:panelGroup>
+
+	<h:form id="loginForm">
+		<p:growl id="growl" showDetail="true" sticky="true" />
+
+		<p:panel styleClass="loginPanel">
+			<h:panelGrid columns="2" cellpadding="5">
+			#{msg['label.welcome']} @ #{msg['label.company']}
+			</h:panelGrid>
+			<h:panelGrid columns="2" cellpadding="5">
+				<p:outputLabel for="email" value="#{msg['label.user.email']}" />
+				<p:inputText id="email" value="#{loginBean.email}" required="true" />
+
+				<p:outputLabel for="password" value="#{msg['label.user.password']}" />
+				<p:password id="password" value="#{loginBean.password}"
+					required="true" />
+					
+					&nbsp;
+				<p:commandButton id="loginButton" value="Login"
+					actionListener="#{loginBean.fakeLogin}" update="growl" />
+			</h:panelGrid>
+		</p:panel>
+	</h:form>
+
+	<p:scrollPanel styleClass="rssFeedPanel">
+		<h:panelGrid columns="2">
+			<p:feedReader
+				value="http://feeds.feedburner.com/autonews/BreakingNews?format=xml"
+				var="feed">
+				<h:outputText value="#{feed.title}" styleClass="rssFeedTitle" />
+				<h:outputText value="#{feed.description.value}" styleClass="rssFeedBody" escape="false" />
+			</p:feedReader>
+		</h:panelGrid>
+	</p:scrollPanel>
+
+	<h:outputStylesheet library="css" name="main.css" />
+	<h:outputStylesheet library="css" name="theme.css" />
+</h:body>
+</html>

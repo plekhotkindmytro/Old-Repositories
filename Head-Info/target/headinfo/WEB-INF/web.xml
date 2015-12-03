@@ -1,0 +1,22 @@
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+    http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	<display-name>Application for recruiters</display-name>
+	<filter>
+		<filter-name>GithubAuthFilter</filter-name>
+		<filter-class>uwc.headinfo.filter.GithubAuthFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>GithubAuthFilter</filter-name>
+		<url-pattern>/github</url-pattern>
+	</filter-mapping>
+	<servlet>
+		<servlet-name>SearchServlet</servlet-name>
+		<servlet-class>uwc.headinfo.servlet.SearchServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SearchServlet</servlet-name>
+		<url-pattern>/search</url-pattern>
+	</servlet-mapping>
+</web-app>
