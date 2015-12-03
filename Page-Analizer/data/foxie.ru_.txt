@@ -1,0 +1,15 @@
+img: 848
+td: 76
+div: 48
+br: 39
+tr: 37
+a: 37
+table: 11
+script: 11
+!--: 8
+link: 5
+meta: 3
+body: 1
+noscript: 1
+html: 1
+head: 1

@@ -1,0 +1,14 @@
+div: 23
+a: 15
+li: 12
+script: 7
+h1: 4
+ul: 3
+p: 2
+h3: 2
+body: 1
+link: 1
+meta: 1
+html: 1
+head: 1
+h2: 1

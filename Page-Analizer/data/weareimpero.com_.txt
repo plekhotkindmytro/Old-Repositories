@@ -1,0 +1,13 @@
+div: 6
+a: 3
+script: 3
+br: 3
+meta: 3
+link: 2
+h1: 2
+span: 2
+body: 1
+section: 1
+strong: 1
+html: 1
+head: 1

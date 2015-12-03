@@ -1,0 +1,17 @@
+li: 63
+a: 45
+strong: 45
+div: 24
+p: 21
+em: 20
+h3: 15
+ul: 14
+img: 13
+h4: 10
+link: 2
+body: 1
+meta: 1
+html: 1
+h1: 1
+head: 1
+h2: 1

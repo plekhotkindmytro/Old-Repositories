@@ -1,0 +1,11 @@
+div: 77
+a: 19
+img: 11
+li: 10
+script: 10
+ul: 2
+meta: 2
+body: 1
+link: 1
+html: 1
+head: 1

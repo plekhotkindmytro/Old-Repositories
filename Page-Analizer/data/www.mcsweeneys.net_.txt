@@ -1,0 +1,15 @@
+div: 31
+a: 19
+br: 8
+p: 8
+link: 7
+script: 7
+span: 7
+meta: 4
+strong: 4
+i: 3
+body: 1
+html: 1
+h1: 1
+head: 1
+h2: 1

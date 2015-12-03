@@ -1,0 +1,17 @@
+li: 100
+strong: 40
+h4: 33
+p: 30
+script: 18
+h2: 17
+br: 12
+a: 10
+span: 10
+h3: 8
+h1: 6
+ul: 1
+div: 1
+style: 1
+em: 1
+head: 1
+small: 1

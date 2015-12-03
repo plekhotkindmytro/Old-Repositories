@@ -1,0 +1,16 @@
+div: 59
+br: 47
+a: 31
+li: 20
+span: 17
+meta: 9
+script: 7
+p: 7
+html: 4
+ul: 3
+link: 2
+h2: 2
+body: 1
+nav: 1
+h1: 1
+head: 1

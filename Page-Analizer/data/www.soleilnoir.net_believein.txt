@@ -1,0 +1,13 @@
+li: 18
+script: 14
+div: 12
+meta: 8
+a: 6
+html: 4
+link: 3
+img: 3
+ul: 2
+head: 2
+body: 1
+header: 1
+footer: 1
