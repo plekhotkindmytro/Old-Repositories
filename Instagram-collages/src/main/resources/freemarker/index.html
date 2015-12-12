@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Collage Creator</title>
+<link rel="stylesheet" type="text/css" href="/css/index.css">
+</head>
+<body>
+
+	<h1>Collage Creator</h1>
+	<p>Choose images to create collage</p>
+
+	<div id="images"></div>
+	<div>
+		<ul id="nav">
+			<li id="recent"><a href="#">Load the most recent images</a></li>
+			<li id="next"><a href="#">Load older images</a></li>
+		</ul>
+	</div>
+	<select id="collageType">
+		<option value="horisontal">Horisontal</option>
+		<option value="vertical">Vertical</option>
+	</select>
+	<button id="create">Create Collage</button>
+	<div id="collage"></div>
+	<script type="text/javascript" src="/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="/js/index.js"></script>
+</body>
+</html>
